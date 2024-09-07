@@ -1,0 +1,160 @@
+body{
+    margin: 0px;
+    background-color: #E5EFF5;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Karla;
+    font-weight: 400;
+  }
+.MainBox{
+  background-color: white;
+  width: 640px;
+  max-width: 640px;
+  height: 480px;
+  max-height: 480px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.05);
+}
+.TopBox{
+  height: 215px;
+  overflow: hidden;
+}
+.BotBox{
+  background-color: #2AB2AF;
+  display: flex;
+  height: 265px;
+  max-height: 265px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+#h1s{
+  font-weight: 700;
+}
+.Titulo{
+  margin-top: 40px;
+  font-size: 24px;
+  color: #2AB2AF;
+  margin-left: 40px;
+}
+.Treinta{
+  color: #C0DF34;
+  font-size: 18px;
+  margin-left: 40px;
+  margin-bottom: 0px;
+}
+.Texto1{
+  color: #98A6BD;
+  margin-top: 10px;
+  line-height: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.BotLeftBox{
+  width: 320px;
+  
+}
+.BotRightBox{
+  background-color: #4bc0bee1;
+  width: 320px;
+  border-bottom-right-radius: 10px;
+}
+.subtitulo{
+  margin-top: 40px;
+  font-size: 18px;
+  margin-left: 40px;
+  color: white;
+  margin-bottom: 0px;
+}
+.pago{
+  display: flex;
+  margin-left: 40px;
+  margin-top: 22px;
+  margin-bottom: 0px;
+  align-items: center;
+}
+.dinero{
+  margin: 0px;
+  font-size: 32px;
+  color: white;
+}
+.dinero2{
+  margin: 0px;
+  margin-left: 14px;
+  color: #7bf0eeb7;
+}
+.access{
+  margin-left: 40px;
+  margin-top: 5px;
+  color: white;
+}
+button{
+  background-color: #C0DF34;
+  margin-top: 15px;
+  margin-left: 40px;
+  border: none;
+  width: 240px;
+  height: 50px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  box-shadow: 0px 5px 10px rgb(0, 0, 0, .1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+button:hover {
+  box-shadow: 0px 7px 15px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+button:active {
+  box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.6);
+  transform: translateY(2px);
+}
+.texto2{
+  margin-left: 40px;
+  margin-right: 90px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  color: #d6faf9a3;
+  line-height: 20px;
+}
+.texto3{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  margin-right: 90px;
+  font-size: 14px;
+  color: #d6faf9a3;
+  line-height: 20px;
+}
+.texto4{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  margin-right: 90px;
+  font-size: 14px;
+  color: #d6faf9a3;
+  line-height: 20px;
+}
+.texto5{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  margin-right: 90px;
+  font-size: 14px;
+  color: #d6faf9a3;
+  line-height: 20px;
+}
+.texto6{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  margin-right: 90px;
+  font-size: 14px;
+  color: #d6faf9a3;
+  line-height: 20px;
+}
